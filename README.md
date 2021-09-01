@@ -4,6 +4,16 @@ Software criado para discutir os conceitos de criação de uma aplicação Web u
 
 ## Autor
 Wellington Wagner F. Sarmento
+Gustavo Mendes Moreira de Sousa
+
+## Colaboradores
+Paulo Henrique Gomes
+Gabriela Medeiros
+Guilherme Cayres
+João Vieira
+
+## Pré-requisito
+Instalar o Node.js
 
 ## Licença
 
